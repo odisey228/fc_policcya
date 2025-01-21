@@ -1,0 +1,9 @@
+body{ 
+    background: url(img/img/завантаження (1).jfif)" repeat 50% 0; ;
+    /* background:yellowgreen url(img/img/завантаження (1).jfif)" repeat 50% 0 */
+    font-family:"arial",sans-serif ;
+    font-size: 50px;
+    color: yellow;
+}
+h1{color: yellow;
+text-align: center;}
