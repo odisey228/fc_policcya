@@ -1,7 +1,7 @@
 body{ 
-    background: antiquewhite url("img/завантаження.png") repeat 50% 0;;
+    background: #326717 url('img/bg\ \(1\).jpg') center top no-repeat;
     font-family: "Arial", sans-serif;
-    font-size: 20px;
+    font-size: 25px;
     color: yellow;
 }
 h1{color: yellowgreen;
@@ -9,4 +9,9 @@ text-align: center;
 }
 p{
     color:rgb(255, 255, 255);
+}
+
+#highlights{
+background-color:rgb(25, 78, 3) ;
+
 }
