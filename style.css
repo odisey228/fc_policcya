@@ -1,8 +1,12 @@
 body{ 
     background: #326717 url('img/bg\ \(1\).jpg') center top no-repeat;
     font-family: "Arial", sans-serif;
-    font-size: 25px;
+    font-size: 20px;
     color: yellow;
+}
+#highlights{display: flex;
+flex-direction: row;
+gap: 20px;
 }
 h1{color: yellowgreen;
 text-align: center;
@@ -13,5 +17,10 @@ p{
 
 #highlights{
 background-color:rgb(25, 78, 3) ;
-
 }
+.highlights-content{display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+.highlights-content article{
+    width: 500px}
